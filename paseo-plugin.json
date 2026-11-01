@@ -1,0 +1,6 @@
+{
+  "id": "git-plugin-manager",
+  "name": "Plugin manager",
+  "description": "Lists installed Paseo plugins in the sidebar, checks them for updates, and updates plugins installed from Git checkouts to their upstream's latest commits with one click",
+  "requirements": { "paseo": ">=0.13.0" }
+}
